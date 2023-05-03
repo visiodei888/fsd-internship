@@ -1,0 +1,21 @@
+h4{
+    color: chartreuse;
+    font-size: x-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.l1{
+    color: violet;
+}
+
+.l2{
+    color: brown;
+}
+
+.l3{
+    color: orangered;
+}
+
+#l4{
+    color: magenta;
+}
